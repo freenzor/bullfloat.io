@@ -1,0 +1,21 @@
+# Bullfloat Website
+
+## Descripción
+Este es el sitio web oficial de **Bullfloat**, diseñado y desarrollado por **Web Net IDM**. El sitio está destinado a fines corporativos y comerciales, incluyendo la promoción, venta y comunicación de los servicios de Bullfloat.
+
+## Características
+- Diseño profesional y responsivo.
+- Funcionalidades optimizadas para actividades comerciales.
+- Estructura modular que permite modificaciones y personalizaciones.
+
+## Uso
+El sitio web es exclusivo para uso corporativo por parte de Bullfloat. Cualquier redistribución, venta o reutilización requiere autorización escrita de Bullfloat.
+
+## Créditos
+- **Desarrollador**: Web Net IDM  
+- **Propiedad del Sitio**: Bullfloat
+
+## Modificaciones
+Para realizar modificaciones, puede contactar a Web Net IDM si requiere soporte adicional.
+
+
